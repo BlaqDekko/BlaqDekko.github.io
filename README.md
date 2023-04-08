@@ -1,4 +1,4 @@
-### Hi there 👋
+### This site showcases projects I'm interested in.
 
 <!--
 **BlaqDekko/BlaqDekko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
