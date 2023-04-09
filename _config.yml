@@ -28,7 +28,8 @@ twitter_username: BlaqKlie
 github_username:  BlaqDekko
 
 # Build settings
-theme: odin
+# theme: odin
+remote_theme: TeaGuns/Odin
 plugins:
   - jekyll-feed
 
