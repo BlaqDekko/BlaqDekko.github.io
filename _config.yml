@@ -28,7 +28,7 @@ twitter_username: BlaqKlie
 github_username:  BlaqDekko
 
 # Build settings
-theme: dark-poole
+theme: jekyll-dash 
 plugins:
   - jekyll-feed
 
