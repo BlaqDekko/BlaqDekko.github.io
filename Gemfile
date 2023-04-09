@@ -12,7 +12,7 @@ source "https://rubygems.org"
 gem "minima", "~> 2.5"
 gem "jekyll"
 gem "jekyll-paginate"
-gem "jekyll-dash"
+# gem 'jekyll-dash', '~> 2'
 # gem "rubyzip"
 # gem "jekyll-swiss"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
