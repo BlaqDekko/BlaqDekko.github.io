@@ -28,7 +28,7 @@ twitter_username: BlaqKlie
 github_username:  BlaqDekko
 
 # Build settings
-theme: minima
+theme: odin
 plugins:
   - jekyll-feed
 
