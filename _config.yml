@@ -28,11 +28,12 @@ twitter_username: BlaqKlie
 github_username:  BlaqDekko
 
 # Build settings
-theme: dinky
-# remote_theme: bitbrain/jekyll-dash
+# theme: dinky
+remote_theme: bitbrain/jekyll-dash
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
