@@ -29,7 +29,9 @@ github_username:  BlaqDekko
 
 # Build settings
 # theme: dinky
-remote_theme: bitbrain/jekyll-dash
+# remote_theme: bitbrain/jekyll-dash
+remote_theme: pages-themes/dinky@v0.2.0
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
