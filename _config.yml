@@ -19,25 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Welcome to BlakeTK.com!
-# email: blake@netwyrk.com
-description: This site focuses on new technologies I'm learning.
-# baseurl: "/" # the subpath of your site, e.g. /blog
-# url: "https://blaketk.com" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: BlaqKlie
-# github_username:  BlaqDekko
+email: blake@netwyrk.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This site showcases interests and projects I'm working on, including this site created with Jekyll.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blaketk.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
-# theme: hacker
-# remote_theme: bitbrain/jekyll-dash
-# remote_theme: pages-themes/dinky@v0.2.0
-remote_theme: pages-themes/hacker@v0.2.0
-
+theme: minima
 plugins:
-  # - jekyll-feed
-  # - jekyll-paginate
-  - jekyll-remote-theme
-
-show_downloads: false
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
